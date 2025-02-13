@@ -1,1 +1,21 @@
 import "./style.css";
+// import { callback } from "./basic/1";
+// import { person } from "./basic/2";
+// import { task4 } from "./basic/4";
+// import { isWeekend } from "./basic/5";
+// import { poly, mango } from "./basic/6";
+// import { page1, page2 } from "./basic/7";
+// import { RoleDescription } from "./generics/5";
+
+// console.log("Task-1", callback(10));
+// console.log("Task-2", person);
+// console.log("Task-4-showMessage:", task4.showMessage("TS is great!"));
+// console.log("Task-4-error:", task4.customError());
+// console.log("Task-4-calc:", task4.calc(5, 10));
+// console.log("Task-5_Mon", isWeekend("Monday"));
+// console.log("Task-5-Sun", isWeekend("Sunday"));
+// console.log("Task-6-poly", poly);
+// console.log("Task-6-mango", mango);
+// console.log("Task-7-page-1", page1);
+// console.log("Task-7-page-2", page2);
+// console.log("RoleDescription", RoleDescription);
